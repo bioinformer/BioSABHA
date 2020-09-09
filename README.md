@@ -1,4 +1,4 @@
-# Welcome to BioSABHA: Bioinformatics Study of Academic Bioilogical Heuristics and Aspirations (of BioSABHA participants)
+# Welcome to BioSABHA: Bioinformatics Study of Academic Biological Heuristics and Aspirations (of BioSABHA participants)
 Please join the following Google Classroom and Meet to join... 
 Also, please join the WhatsAPP group using invite Link below.
 Google Classroom http://bit.ly/gcrbiosabha
